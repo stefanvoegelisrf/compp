@@ -30,6 +30,8 @@
     - [Adding frames](#adding-frames)
     - [Binding keep generating to record button](#binding-keep-generating-to-record-button)
     - [Start recording and generating images](#start-recording-and-generating-images)
+    - [Using gpuhub for generation](#using-gpuhub-for-generation)
+  - [Getting song information](#getting-song-information)
   - [Resources](#resources)
 
 
@@ -319,6 +321,31 @@ Based on [youtube.com - elekktronaut - Touch Designer x Stable Diffusion Tutoria
 ### Start recording and generating images
 - Start record
 - Start pulse on SD_API
+
+### Using gpuhub for generation
+- To have better gpu, redirect the localhost requests to gpuhub
+- Install nginx `brew install nginx`
+- Start nginx `brew services start nginx`
+- Edit `nginx.conf` usually located at `/usr/local/etc/nginx/nginx.conf`
+- Configuration:
+```
+server {
+    listen 7860;
+    server_name localhost;
+
+    location / {
+        proxy_pass https://e1a8caa39813d2d95a.gradio.live/;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    }
+}
+```
+
+## Getting song information
+
+### Spotify API
+The Spotify API documentation is a helpful resource to get started: [Spotify API Documentation](https://developer.spotify.com/documentation/web-api)
 
 ## Resources
 
