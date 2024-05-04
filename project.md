@@ -33,6 +33,9 @@
     - [Using gpuhub for generation](#using-gpuhub-for-generation)
   - [Getting song information](#getting-song-information)
   - [Resources](#resources)
+  - [Installing StreamDiffusion](#installing-streamdiffusion)
+    - [Clone repo](#clone-repo)
+    - [Create virtual environment](#create-virtual-environment)
 
 
 
@@ -350,3 +353,16 @@ The Spotify API documentation is a helpful resource to get started: [Spotify API
 ## Resources
 
 - [youtube.com - Sonic Flowers - TouchDesigner x StableDiffusion Tutorial](https://www.youtube.com/watch?v=4wpn_3JNaIc)
+
+## Installing StreamDiffusion
+[github.com - StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)
+
+### Clone repo
+`git clone https://github.com/cumulo-autumn/StreamDiffusion.git`
+
+### Create virtual environment
+```sh
+python -m venv .venv
+# Linux
+source .venv/bin/activate
+```
