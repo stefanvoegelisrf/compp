@@ -42,19 +42,37 @@
         },
         {
             "timecode": "00:33:500",
-            "line": "Musst was aus'm Kopf krieg'n – Inception",
+            "line": "Musst was aus'm Kopf krieg'n",
+            "description": "",
+            "prompt": ""
+        },
+        {
+            "timecode": "00:36:125",
+            "line": "Inception",
             "description": "",
             "prompt": ""
         },
         {
             "timecode": "00:37:250",
-            "line": "Ruf mich an, ich bin in fünf Minuten ready",
+            "line": "Ruf mich an",
+            "description": "",
+            "prompt": ""
+        },
+        {
+            "timecode": "00:38:000",
+            "line": "ich bin in fünf Minuten ready",
             "description": "",
             "prompt": ""
         },
         {
             "timecode": "00:39:500",
-            "line": "Steig' ins Shuttle, geb' für dich mein Bestes",
+            "line": "Steig' ins Shuttle",
+            "description": "",
+            "prompt": ""
+        },
+        {
+            "timecode": "00:40:375",
+            "line": "geb' für dich mein Bestes",
             "description": "",
             "prompt": ""
         },
@@ -66,13 +84,25 @@
         },
         {
             "timecode": "00:43:375",
-            "line": "Wolken bauen Aperol-Paläste",
+            "line": "Wolken bauen",
+            "description": "",
+            "prompt": ""
+        },
+        {
+            "timecode": "00:44:125",
+            "line": "Aperol-Paläste",
             "description": "",
             "prompt": ""
         },
         {
             "timecode": "00:45:750",
-            "line": "Himmel glüht, Lichter flackern",
+            "line": "Himmel glüht",
+            "description": "",
+            "prompt": ""
+        },
+        {
+            "timecode": "00:46:375",
+            "line": "Lichter flackern",
             "description": "",
             "prompt": ""
         },
@@ -204,7 +234,13 @@
         },
         {
             "timecode": "01:50:000",
-            "line": "Zungenkuss, Fightszen'n",
+            "line": "Zungenkuss",
+            "description": "",
+            "prompt": ""
+        },
+        {
+            "timecode": "01:50:750",
+            "line": "Fightszen'n",
             "description": "",
             "prompt": ""
         },
@@ -282,7 +318,13 @@
         },
         {
             "timecode": "02:35:125",
-            "line": "Hab'n weder Angst vor Gott noch vor Luzifer",
+            "line": "Hab'n weder Angst vor Gott",
+            "description": "",
+            "prompt": ""
+        },
+        {
+            "timecode": "02:37:875",
+            "line": "noch vor Luzifer",
             "description": "",
             "prompt": ""
         },
