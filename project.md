@@ -36,6 +36,7 @@
   - [Installing StreamDiffusion](#installing-streamdiffusion)
     - [Clone repo](#clone-repo)
     - [Create virtual environment](#create-virtual-environment)
+  - [Timesyncing Lyrics](#timesyncing-lyrics)
 
 
 
@@ -326,6 +327,7 @@ Based on [youtube.com - elekktronaut - Touch Designer x Stable Diffusion Tutoria
 - Start pulse on SD_API
 
 ### Using gpuhub for generation
+> Not tested
 - To have better gpu, redirect the localhost requests to gpuhub
 - Install nginx `brew install nginx`
 - Start nginx `brew services start nginx`
@@ -356,6 +358,8 @@ The Spotify API documentation is a helpful resource to get started: [Spotify API
 
 ## Installing StreamDiffusion
 [github.com - StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion)
+https://github.com/cumulo-autumn/StreamDiffusion/issues/34
+https://developer.apple.com/metal/pytorch/
 
 ### Clone repo
 `git clone https://github.com/cumulo-autumn/StreamDiffusion.git`
@@ -366,3 +370,6 @@ python -m venv .venv
 # Linux
 source .venv/bin/activate
 ```
+
+## Timesyncing Lyrics
+https://github.com/GuiGPaP/TD_Lyrics
