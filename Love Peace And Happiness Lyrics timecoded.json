@@ -13,121 +13,121 @@
         {
             "timecode": "00:08:875",
             "line": "Sag mir einfach nur, wann und wohin",
-            "description": "",
+            "description": "direction, clock, place, Compass, map, calendar, question mark, pathway, crossroads, watch, hourglass, travel bag, suitcase, adventure",
             "prompt": ""
         },
         {
             "timecode": "00:15:500",
             "line": "Ich bin da für die Ups and Downs",
-            "description": "",
+            "description": "Support, rollercoaster, peaks, valleys, smile, frown, sunshine, rain, handshake, embrace, balance, yin-yang",
             "prompt": ""
         },
         {
             "timecode": "00:23:750",
             "line": "Und ich kenn' immer ein'n da, wo es blinkt",
-            "description": "",
+            "description": "Stars, city lights, neon signs, lighthouse, firefly, beacon, flashlight, candle, lantern, glow, sparkle, twinkle",
             "prompt": ""
         },
         {
             "timecode": "00:29:750",
             "line": "Deine Augen Flugzeugfenster",
-            "description": "",
+            "description": "Eyes, airplane window, sky, clouds, horizon, view, travel, reflection, vision, journey, gaze, perspective",
             "prompt": ""
         },
         {
             "timecode": "00:31:625",
             "line": "Brauchst paar schnelle Nächte",
-            "description": "",
+            "description": "city lights, nightlife, speed, motion blur, neon signs, urban, fast-paced",
             "prompt": ""
         },
         {
             "timecode": "00:33:500",
             "line": "Musst was aus'm Kopf krieg'n",
-            "description": "",
+            "description": "reflection, contemplation, memory, release, freedom, peace, solitude",
             "prompt": ""
         },
         {
             "timecode": "00:36:125",
             "line": "Inception",
-            "description": "",
+            "description": "dream, layers, labyrinth, complexity, puzzle, surreal, subconscious",
             "prompt": ""
         },
         {
             "timecode": "00:37:250",
             "line": "Ruf mich an",
-            "description": "",
+            "description": "phone, call, communication, urgency, connection, signal, reach out",
             "prompt": ""
         },
         {
             "timecode": "00:38:000",
             "line": "ich bin in fünf Minuten ready",
-            "description": "",
+            "description": "preparation, countdown, anticipation, quick, time-sensitive, readiness, punctuality",
             "prompt": ""
         },
         {
             "timecode": "00:39:500",
             "line": "Steig' ins Shuttle",
-            "description": "",
+            "description": "space shuttle, launch, astronaut, cosmos, stars, rocket, liftoff, voyage, exploration, technology",
             "prompt": ""
         },
         {
             "timecode": "00:40:375",
             "line": "geb' für dich mein Bestes",
-            "description": "",
+            "description": "dedication, effort, support, commitment, hard work, success, goal, achievement, motivation, perseverance",
             "prompt": ""
         },
         {
             "timecode": "00:41:875",
             "line": "Bring' noch 'n Sixer Beck's mit",
-            "description": "",
+            "description": "beer, friends, gathering, party, refreshment, enjoyment, casual, socializing, six-pack, celebration",
             "prompt": ""
         },
         {
             "timecode": "00:43:375",
             "line": "Wolken bauen",
-            "description": "",
+            "description": "clouds, construction, creativity, sky, building, architecture, imagination, design, structure, innovation",
             "prompt": ""
         },
         {
             "timecode": "00:44:125",
             "line": "Aperol-Paläste",
-            "description": "",
+            "description": "cocktail, Aperol Spritz, orange, summer, terrace, luxury, leisure, sunset, refreshment, sophistication",
             "prompt": ""
         },
         {
             "timecode": "00:45:750",
             "line": "Himmel glüht",
-            "description": "",
+            "description": "sky, glow, sunset, twilight, clouds, radiance, dusk, warm colors, serene",
             "prompt": ""
         },
         {
             "timecode": "00:46:375",
             "line": "Lichter flackern",
-            "description": "",
+            "description": "lights, flicker, candles, dim, ambiance, soft glow, warmth, twilight, serene",
             "prompt": ""
         },
         {
             "timecode": "00:47:625",
             "line": "Mein Gefühl: Es wird heftig",
-            "description": "",
+            "description": "emotion, intensity, storm, passion, turmoil, fervor, power, surge, drama",
             "prompt": ""
         },
         {
             "timecode": "00:49:125",
             "line": "Alle zehn Sekunden eine Message",
-            "description": "",
+            "description": "notifications, frequency, digital, communication, alert, message bubble, smartphone, urgency, connection",
             "prompt": ""
         },
         {
             "timecode": "00:51:375",
             "line": "Kurz gucken, wo der Rest ist",
-            "description": "",
+            "description": "search, group, location, map, curiosity, brief glance, whereabouts, companions, gathering",
             "prompt": ""
         },
         {
             "timecode": "00:52:875",
             "line": "Akku immer voll, bin geladen",
-            "description": "",
+            "description": "battery, energy, power, charged, full, electricity, technology",
             "prompt": ""
         },
         {
@@ -139,31 +139,31 @@
         {
             "timecode": "00:57:000",
             "line": "Kämpf' für dein Recht auf Party",
-            "description": "",
+            "description": "protest, freedom, celebration, dance, music, rights, party, festivity, crowd, rebellion",
             "prompt": ""
         },
         {
             "timecode": "00:58:500",
             "line": "Komm mit meiner Seven Nation Army",
-            "description": "",
+            "description": "guitar, drums, band, military, unity, rock, anthem, soldiers, stripes, march",
             "prompt": ""
         },
         {
             "timecode": "01:00:875",
             "line": "Wir bringen dich dahin, wo's am besten ist",
-            "description": "",
+            "description": "travel, destination, joy, best, adventure, exploration, paradise, journey, escape, discovery",
             "prompt": ""
         },
         {
             "timecode": "01:04:250",
             "line": "Sind wieder mal auf der Jagd nach Happiness",
-            "description": "",
+            "description": "pursuit, happiness, chase, joy, quest, search, adventure, goal, fulfillment, contentment",
             "prompt": ""
         },
         {
             "timecode": "01:09:625",
             "line": "Love, peace and happiness",
-            "description": "",
+            "description": "heart, dove, peace sign, joy, harmony, love, tranquility, serenity, bliss, unity",
             "prompt": ""
         },
         {
@@ -223,37 +223,37 @@
         {
             "timecode": "01:45:750",
             "line": "Du musst dir Zeit nehm'n",
-            "description": "",
+            "description": "clock, pause, relaxation, time, life, break, watch, hourglass, leisure, moment",
             "prompt": ""
         },
         {
             "timecode": "01:47:500",
             "line": "Eine Nacht mit mir heißt zwei Wochen freinehm'n",
-            "description": "",
+            "description": "night, stars, vacation, freedom, calendar, moon, getaway, leisure, break, escape",
             "prompt": ""
         },
         {
             "timecode": "01:50:000",
             "line": "Zungenkuss",
-            "description": "",
+            "description": "lips, love, passion, intimacy, kiss, romance, affection, desire, tenderness, sensuality",
             "prompt": ""
         },
         {
             "timecode": "01:50:750",
             "line": "Fightszen'n",
-            "description": "",
+            "description": "boxing gloves, conflict, action, drama, fight, battle, struggle, combat, aggression, tension",
             "prompt": ""
         },
         {
             "timecode": "01:51:500",
             "line": "Viel zu viel ausgeben, viel zu viel einnehm'n",
-            "description": "",
+            "description": "money, pills, excess, consumption, spending, overdose, luxury, waste, indulgence, extravagance",
             "prompt": ""
         },
         {
             "timecode": "01:54:375",
             "line": "Dein Herz Ice Age, besorg dir ein Blinddate",
-            "description": "",
+            "description": "ice, heart, dating, romance, blindfold, cold, frost, love, match, encounter",
             "prompt": ""
         },
         {
