@@ -1,4 +1,11 @@
 # Installing Stable Diffusion locally
+- [Installing Stable Diffusion locally](#installing-stable-diffusion-locally)
+  - [Installing homebrew](#installing-homebrew)
+  - [Installing tools](#installing-tools)
+  - [Cloning the AUTOMATIC1111 Web UI](#cloning-the-automatic1111-web-ui)
+  - [Run Web UI](#run-web-ui)
+
+
 Taken from the guide at [stable-diffusion-art.com](https://stable-diffusion-art.com/install-mac/). Guide from AUTOMATIC1111 [github.com - Installation on Apple Silicon](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon)
 ## Installing homebrew
 To install tools needed, we use homebrew, a package manager for macOS.
