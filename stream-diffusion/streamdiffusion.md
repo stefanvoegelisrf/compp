@@ -24,9 +24,11 @@ At first, the integration only worked halfway, meaning I only got the first fram
 
 ### Feeding Noise into StreamDiffusion
 To create an image with StreamDiffusion, we can use noise in combination with a prompt.
+
 ![TouchDesigner noise](./images/touchdesigner-noise.png)
 
 In order to create an animation, the noise has to be animated which can be done by using `absTime.seconds`. In order to slow down the animation, this value can also be divided by a specific amount.
+
 ![Animating noise](./images/animating-noise.png)
 
 ### Creating the prompts
