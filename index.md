@@ -49,8 +49,11 @@ The goal of this project is to experiment with StableDiffusion and StreamDiffusi
 This project was realized with various tool, techniques and content of third parties which are listed below:
 
 ## Chapters
+### Audio reactive visuals with TouchDesigner and Stable Diffusion web UI
 First, I worked with StableDiffusion web UI and TouchDesigner. I followed an extensive tutorial by [elekktronaut]() which introduced the workflow for creating visuals in TouchDesigner and then feeding it as img2img input to StableDiffusion web UI along with prompts to create audio reactive visuals.
 
+### Timelapse video of drawing with TouchDesigner and Stable Diffusion web UI
 Second, I applied this workflow to create a timelapse video of a drawing of mine to use the timelapse of the drawing as input and extending it with Stable Diffusion web UI.
 
+### Music video with TouchDesigner and StreamDiffusion
 Third, I installed StreamDiffusion and created a music video for "Love, Peace and Happiness" with TouchDesigner in Combination with StreamDiffusion.
