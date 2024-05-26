@@ -16,6 +16,13 @@ The goal of this project is to experiment with StableDiffusion and StreamDiffusi
 
 ## Credits
 This project was realized with various tool, techniques and content of third parties which are listed below:
+- [youtube.com - Marteria feat. ÄTNA & Yasha - Love, Peace & Happiness](https://www.youtube.com/watch?v=CsUQ0fEHGBE)
+- [stability.ai - Stable Diffusion by StabilityAI](https://stability.ai/stable-image)
+- [github.com - Stable Diffusion web UI by AUTOMATIC1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui/)
+- [derivative.ca - Touch Designer by derivative](https://derivative.ca/)
+- [github.com - Stream Diffusion](https://github.com/cumulo-autumn/StreamDiffusion)
+- [patreon.com - Touch Designer Stable Diffusion and Stream Diffusion Components by dotsimulate](https://www.patreon.com/dotsimulate)
+- [github.com - Touch Designer Lyrics Sync Component by GuiGPaP](https://github.com/GuiGPaP/TD_Lyrics)
 
 ## Chapters
 ### Audio reactive visuals with TouchDesigner and Stable Diffusion web UI
