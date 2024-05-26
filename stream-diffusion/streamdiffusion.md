@@ -46,6 +46,7 @@ In order to create an animation, the noise has to be animated which can be done 
 ![Animating noise](./images/animating-noise.png)
 
 This resulted in a very basic animation: [onedrive.live.com - Love, Peace & Happiness v1](https://1drv.ms/v/s!AhXU9c-vzziSn-NGr2iGyGWJl5gqgA?e=d9QH9A)
+On average, frame rate was about 2.5 fps.
 
 ## Creating the prompts
 In order to have different prompts throughout the song, I wanted to timesync the prompt with the song. Luckily, someone already did the work to sync lyrics with a audiofile in operator: [github.com - TD_Lyrics](https://github.com/GuiGPaP/TD_Lyrics)
@@ -79,7 +80,7 @@ In order to get results that also resemble the original input video, I also adde
 Result with video as input: [onedrive.live.com - Love, Peace & Happiness with video input](https://1drv.ms/v/s!AhXU9c-vzziSn-RLOtuvO4oRhgedSw?e=r3KVCD)
 
 ## Results
-In the end, I tried out various different visual styles with the v3 keywords.
+In the end, I tried out various different visual styles with the v3 keywords. The frame rate is about 2.5 fps. This could be increased by using better hardware or slowing down the video input.
 
 ### Psychedelic
 [onedrive.live.com - Love, Peace & Happiness - Psychedelic](https://1drv.ms/v/s!AhXU9c-vzziSn-ROMEwGCrcGYYsFow?e=kcxJlD)
