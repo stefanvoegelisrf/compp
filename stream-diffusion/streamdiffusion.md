@@ -44,3 +44,4 @@ What could be descriptive keywords for image generation? Please only respond wit
 
 I executed this for every line of the song and then created a .lrc file from this which resulted in [Love, Peace & Happiness Keywords from Lyrics](./lyrics/LovePeaceHappinessKeywords.lrc)
 
+TODO: add prompts, add results, add gifs

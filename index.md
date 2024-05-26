@@ -58,6 +58,8 @@ The documentation of this part consists of various parts:
 
 ### Timelapse video of drawing with TouchDesigner and Stable Diffusion web UI
 Second, I applied this workflow to create a timelapse video of a drawing of mine to use the timelapse of the drawing as input and extending it with Stable Diffusion web UI.
+- [Head diffusion](./stable-diffusion/head-diffusion/index.md)
 
 ### Music video with TouchDesigner and StreamDiffusion
 Third, I installed StreamDiffusion and created a music video for "Love, Peace and Happiness" with TouchDesigner in Combination with StreamDiffusion.
+- [StreamDiffusion](./stream-diffusion/streamdiffusion.md)
