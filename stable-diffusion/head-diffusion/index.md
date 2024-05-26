@@ -23,6 +23,8 @@ Then I created text inputs for the prompt, where I used the following prompt:
 Maya,eyes,face, mouth,mask,ornamental, sculpture, naturalism, ,black outline,quetzal,civilization,ultra detailed, texture, generative art
 ```
 
+The prompt was adjusted several times, until I landed on the above.
+
 I also used a negative prompt:
 ```
 artstation, copyright, logo, watermark
@@ -44,12 +46,14 @@ The logic for creating the animation and playing the movie file in are the same 
 - [Adding logic to change frame when image is generated](../floral-diffusion/floraldiffusion.md#adding-logic-to-change-frame-when-image-is-generated)
 
 ### Result
+
 | Input                                                              | Output                                                               |
 | ------------------------------------------------------------------ | -------------------------------------------------------------------- |
 | ![Aduke Timelapse Input](./images/aduke/aduke-timelapse-input.gif) | ![Aduke Diffusion Output](./images/aduke/aduke-timelapse-output.gif) |
 
 ## Nailik
-The setup for this head is the same as for the first one. However, I fine tuned the image generation settings to get a better result. I mainly increased the denoising to get less noise in the result. 
+The setup for this head is the same as for the first one. However, I fine tuned the image generation settings to get a better result. I mainly increased the denoising to get less noise in the result.
+
 
 | Input                                                                 | Output                                                                  |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- |
