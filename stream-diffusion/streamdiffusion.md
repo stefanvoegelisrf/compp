@@ -8,7 +8,6 @@
   - [Adding the video file as another input](#adding-the-video-file-as-another-input)
   - [Results](#results)
     - [Psychedelic](#psychedelic)
-    - [Neon](#neon)
     - [Anime](#anime)
     - [Lego](#lego)
     - [Realistic](#realistic)
@@ -84,8 +83,6 @@ In the end, I tried out various different visual styles with the v3 keywords.
 
 ### Psychedelic
 [onedrive.live.com - Love, Peace & Happiness - Psychedelic](https://1drv.ms/v/s!AhXU9c-vzziSn-ROMEwGCrcGYYsFow?e=kcxJlD)
-
-### Neon
 
 ### Anime
 [onedrive.live.com - Love, Peace & Happiness - Anime](https://1drv.ms/v/s!AhXU9c-vzziSn-RQBnTKqoUL9DRUGQ?e=ySRKpY)
