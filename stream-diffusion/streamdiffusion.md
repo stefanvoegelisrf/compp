@@ -35,6 +35,12 @@ In order to have different prompts throughout the song, I wanted to timesync the
 To get the timesynced lyrics, I had to do the manual work to correctly set the timestamps and create a .lrc file for the song.
 > [Love, Peace & Happiness Lyrics](./lyrics/LovePeaceHappinessLyricsOnly.lrc)
 
-## Prompt for keywords
+#### Prompt for keywords
+As a first step, I used Bing AI to create keywords, that describe the lyrics of the song. For this, I used the following prompt:
+```
 Here is a line of a song text: "Brauchst paar schnelle Nächte"
 What could be descriptive keywords for image generation? Please only respond with a comma separated list of keywords
+```
+
+I executed this for every line of the song and then created a .lrc file from this which resulted in [Love, Peace & Happiness Keywords from Lyrics](./lyrics/LovePeaceHappinessKeywords.lrc)
+
