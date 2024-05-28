@@ -72,4 +72,4 @@ Timesyncing prompts to my audio would have been a pain to implement, if it weren
 - [elekktronaut.com](https://www.elekktronaut.com/)
 - [confusedbit.dev - How does GPT work](https://confusedbit.dev/posts/how_does_gpt_work/)
 - [youtube.com - Google Cloud Tech - Transformers, explained: Understand the model behind GPT, BERT, and T5](https://www.youtube.com/watch?v=SZorAJ4I-sA)
-- [youtube.com - ByteByteGo - How ChatGPT Works Technically | ChatGPT Architecture](https://www.youtube.com/watch?v=bSvTVREwSNw)
+- [youtube.com - ByteByteGo - How ChatGPT Works Technically - ChatGPT Architecture](https://www.youtube.com/watch?v=bSvTVREwSNw)
