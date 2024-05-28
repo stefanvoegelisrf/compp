@@ -52,7 +52,7 @@ The logic for creating the animation and playing the movie file in are the same 
 | ![Aduke Timelapse Input](./images/aduke/aduke-timelapse-input.gif) | ![Aduke Diffusion Output](./images/aduke/aduke-timelapse-output.gif) |
 
 ## Nailik
-The setup for this head is the same as for the first one. However, I fine tuned the image generation settings to get a better result. I mainly increased the denoising to get less noise in the result.
+The setup for this head is the same as for the first one. However, I fine tuned the image generation settings to get a better result.I adjusted the denoisingstrength and also the initial nosie multiplier.
 
 
 | Input                                                                 | Output                                                                  |
