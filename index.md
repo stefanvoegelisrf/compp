@@ -8,6 +8,7 @@
     - [Timelapse video of drawing with TouchDesigner and Stable Diffusion web UI](#timelapse-video-of-drawing-with-touchdesigner-and-stable-diffusion-web-ui)
     - [Music video with TouchDesigner and StreamDiffusion](#music-video-with-touchdesigner-and-streamdiffusion)
   - [Reflection](#reflection)
+  - [Resources](#resources)
 
 ## About this project
 This project is part of the module computational perception extended by Guillaume Massol
@@ -55,3 +56,19 @@ In my second experiment, I applied the first workflow onto my personal drawings,
 
 In my third experiment, I struggled a bit to even get it running. This was quite frustrating, but to be expected as my hardware was not optimal to try this out. I should have tried to get access to a machine that was more suite. Luckily, I was not the only person with a Mac that wants to try this workflow, so in the last weeks of the project, other people figured out to get it running.
 Timesyncing prompts to my audio would have been a pain to implement, if it weren't for other work that already figured this out. My knowledge is a bit too basic at this point to do this in TouchDesigner, even though my programming knowledge is strong. This showed me that I need to dive into TouchDesigner more and get better at it. At some point I also realized, that I won't be able to create visuals as input, which is why I focussed on getting fitting prompts for the song lyrics and only use noise as image generation input. The results look nice, but I learned that for another project like this, I should plan out the visuals much more in detail and also abstract the visuals. Just trying to visualize the lyrics is not enough. With my Mac, I got a low framerate, which is why I would also opt for a better machine in the future. Nevertheless, I am satisfied with my results, as I got the technical setup running and got appealing visual outputs for the lyrics and also learned more about prompting and how I can set up a project like this.
+
+## Resources
+- [stable-diffusion-art.com - How Stable Diffusion works](https://stable-diffusion-art.com/how-stable-diffusion-work/)
+- [imaginewithrashid.com - AI image generation art styles](https://imaginewithrashid.com/different-art-styles-for-ai-image-generation/)
+- [kdnuggets.com - Realistic Faces with Stable Diffusion](https://www.kdnuggets.com/3-ways-to-generate-hyper-realistic-faces-using-stable-diffusion)
+- [colab.research.google.com](https://colab.research.google.com/)
+- [tensorflow.org](https://www.tensorflow.org/js#getting-started)
+- [mlart.co](https://mlart.co/)
+- [github.com - Foocus](https://github.com/lllyasviel/Fooocus)
+- [github.com - Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui/)
+- [github.com - Stream Diffusion](https://github.com/cumulo-autumn/StreamDiffusion)
+- [patreon.com - dotsimulate](https://www.patreon.com/dotsimulate/)
+- [elekktronaut.com](https://www.elekktronaut.com/)
+- [confusedbit.dev - How does GPT work](https://confusedbit.dev/posts/how_does_gpt_work/)
+- [youtube.com - Google Cloud Tech - Transformers, explained: Understand the model behind GPT, BERT, and T5](https://www.youtube.com/watch?v=SZorAJ4I-sA)
+- [youtube.com - ByteByteGo - How ChatGPT Works Technically | ChatGPT Architecture](https://www.youtube.com/watch?v=bSvTVREwSNw)
